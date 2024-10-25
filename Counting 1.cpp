@@ -2,16 +2,16 @@
 using namespace std;
 int main()
 {
-	cout<<"\n10" ;
-	cout<<"\n9 ";
-	cout<<"\n8";
-	cout<<"\n7 ";
-	cout<<"\n6 ";
-	cout<<"\n5";
-	cout<<"\n4";
-	cout<<"\n3 ";
-	cout<<"\n2";
-	cout<<"\n1 "<<endl;
+	cout<<"10";
+	cout<<"9";
+	cout<<"8";
+	cout<<"7";
+	cout<<"6";
+	cout<<"5";
+	cout<<"4";
+	cout<<"3";
+	cout<<"2";
+	cout<<"1"<<endl;
 	
     cout<<"10"<<endl ;
 	cout<<"9 "<<endl;
